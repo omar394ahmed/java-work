@@ -1,3 +1,3 @@
 # java-work
-this is java Repository demonstrating some of my Demo projects 
-this is testing 
+this is movies-rating demo projecting demonstrating Micro-service technology with spring-rest webservice .
+Note this is just inital or demo project the final or production project is private . 
